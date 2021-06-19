@@ -49,11 +49,11 @@
  -->
  </p>
 
+<h2 align="center">:bar_chart: Github stats </h2>
+
 <h3 align="center">🛠 My profile Statistics </h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PoulaHelmy&show_icons=true&theme=tokyonight" alt="![Poula Helmy's github]"></p>
-
-<h2 align="center">:bar_chart: Github stats </h2>
 
 <h3 align="center">Top langs</h3>
 
