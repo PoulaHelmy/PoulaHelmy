@@ -10,6 +10,12 @@
 - 🌱 I’m currently learning Angular & Reactjs
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at Cairo University.
+- 💼 &nbsp; Working as a Frontend web developer.
+
 
 ### - Languages and Technologies...
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
@@ -45,21 +51,13 @@
 <a href="mailto:poula.helmy.mousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
 <a href="https://www.facebook.com/poula.helmy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.twitter.com/BolaHelmy2020" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/" alt="Twitter"></a>  
-<a href="https://api.whatsapp.com/send?phone=5581984434580&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201271553762&text=Hi!)](" alt="Whatsapp"></a>  
-    </p>
-  
-
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
+<a href="https://api.whatsapp.com/send?phone=+201271553762&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201271553762&text=Hi!)](" alt="Whatsapp"></a>  
+<!-- [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@weltonfelix)
+ -->
+ </p>
 
 
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Cairo University.
-- 💼 &nbsp; Working as a Frontend web developer.
 
 
 ## Show ❤️ By Starring My Repos!
