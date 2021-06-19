@@ -1,4 +1,15 @@
-<h2> Hey there! I'm Poula.</h2>
+<h1 align="center"> Hey there! I'm Poula. 👋</h1>
+<h2 align="center">🚀 frontend devlover 🚀</h2>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 I’m currently learning Angular & Reactjs
+- 👯 I’m looking to collaborate on MERN stack projects
+- 💬 Ask me about Web dev related Stuff
 
 ### - Languages and Technologies...
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
