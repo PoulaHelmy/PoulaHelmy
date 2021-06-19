@@ -21,7 +21,7 @@
 
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/PoulaHelmy/)](https://github.com/LuizCarlosAbbott/)
-[![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)](https://github.com/PoulaHelmy/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/PoulaHelmy/)
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
 [![Angular](https://img.shields.io/badge/React-20232A?style=style=flat-square&logo=react&logoColor=61DAFB&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
@@ -34,7 +34,7 @@
 ### - IDE... 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white&link=https://github.com/ahmedmohamed24/)](https://github.com/PoulaHelmy/)
 [![Webstorm](https://img.shields.io/badge/webstorm-143?style=flatsquare&logo=webstorm&logoColor=black&color=black&labelColor=darkorchid&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
-[![Phpstorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=black&color=black&labelColor=darkorchid&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![Phpstorm](https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 
 <h3> 💬 Connect with via ... </h3>
