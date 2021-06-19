@@ -15,8 +15,7 @@
 ### - Languages and Technologies...
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
-[![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
-
+[![SAAS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/PoulaHelmy/)](https://github.com/LuizCarlosAbbott/)
