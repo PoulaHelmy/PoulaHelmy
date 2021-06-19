@@ -16,18 +16,26 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![SAAS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
-[![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+
+[![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/PoulaHelmy/)](https://github.com/LuizCarlosAbbott/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
 
 [![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)](https://github.com/PoulaHelmy/)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/PoulaHelmy/)
 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ahmedmohamed24/)](https://github.com/PoulaHelmy/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ahmedmohamed24/)](https://github.com/PoulaHelmy/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+
+### - IDE... 
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white&link=https://github.com/ahmedmohamed24/)](https://github.com/PoulaHelmy/)
+[![Webstorm](https://img.shields.io/badge/webstorm-143?style=flatsquare&logo=webstorm&logoColor=black&color=black&labelColor=darkorchid&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![Phpstorm](**https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=black&color=black&labelColor=darkorchid**&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![Phpstorm](**https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 
 <h3> 💬 Connect with via ... </h3>
 <p align="center">
