@@ -5,6 +5,8 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 [![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)](https://github.com/ahmedmohamed24/)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/ahmedmohamed24/)
