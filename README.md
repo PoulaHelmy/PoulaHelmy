@@ -19,7 +19,7 @@
 
 <h3 align="center">🛠 My profile Statistics </h3>
 
-![Poula Helmy's github]<p align="center">(https://github-readme-stats.vercel.app/api?username=PoulaHelmy&show_icons=true&hide_border=true)</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PoulaHelmy&show_icons=true&hide_border=true" alt="![Poula Helmy's github]"></p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
