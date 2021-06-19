@@ -26,7 +26,6 @@
 [![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)](https://github.com/PoulaHelmy/)
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/PoulaHelmy/)
 
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
@@ -34,8 +33,8 @@
 ### - IDE... 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white&link=https://github.com/ahmedmohamed24/)](https://github.com/PoulaHelmy/)
 [![Webstorm](https://img.shields.io/badge/webstorm-143?style=flatsquare&logo=webstorm&logoColor=black&color=black&labelColor=darkorchid&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
-[![Phpstorm](**https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=black&color=black&labelColor=darkorchid**&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
-[![Phpstorm](**https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![Phpstorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=black&color=black&labelColor=darkorchid**&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![Phpstorm](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 
 <h3> 💬 Connect with via ... </h3>
 <p align="center">
