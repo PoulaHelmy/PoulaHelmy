@@ -19,6 +19,13 @@
 
 ![Poula Helmy's github](https://github-readme-stats.vercel.app/api?username=PoulaHelmy&show_icons=true&hide_border=true)
 
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulaHelmy&langs_count=10&theme=tokyonight&layout=compact" alt="Poula Helmy :: Top Langs" /></p>
+
+
 <h3> 💬 Connect with via ... </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/poula-helmy-406606158" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
