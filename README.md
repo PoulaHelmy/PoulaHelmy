@@ -20,7 +20,7 @@
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 
 [![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/PoulaHelmy/)](https://github.com/LuizCarlosAbbott/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/LuizCarlosAbbott/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/PoulaHelmy/)
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
