@@ -23,7 +23,7 @@
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">:tongue: Top langs </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulaHelmy&langs_count=10&theme=tokyonight&layout=compact" alt="Poula Helmy :: Top Langs" /></p>
 
