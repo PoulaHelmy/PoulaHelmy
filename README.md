@@ -2,36 +2,31 @@
 <h2 align="center">🚀 frontend devlover 🚀</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- 🌱 I’m currently learning Angular & Reactjs
+- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Working as a Frontend web developer.
+- 🎓 &nbsp; Studying Computer Science at Cairo University.
+- 🌱 I'm on track for learning more about Web Development, Angular and Reactjs
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-- 🔥 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Cairo University.
-- 💼 &nbsp; Working as a Frontend web developer.
+- 💻 Goals: Learn more technological stacks and improve my overall skills
+<!-- - 👯 I’m looking to collaborate on ... Any of project -->
 
 
 ### - Languages and Technologies...
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
-[![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/PoulaHelmy/)](https://github.com/LuizCarlosAbbott/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
 
-[![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)](https://github.com/ahmedmohamed24/)
-[![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/ahmedmohamed24/)
+[![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)](https://github.com/PoulaHelmy/)
+[![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)](https://github.com/PoulaHelmy/)
 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ahmedmohamed24/)](https://github.com/ahmedmohamed24/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ahmedmohamed24/)](https://github.com/LuizCarlosAbbott/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/ahmedmohamed24/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ahmedmohamed24/)](https://github.com/PoulaHelmy/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ahmedmohamed24/)](https://github.com/PoulaHelmy/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/PoulaHelmy/)
 
 
 <h3 align="center">🛠 My profile Statistics </h3>
@@ -56,8 +51,6 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@weltonfelix)
  -->
  </p>
-
-
 
 
 ## Show ❤️ By Starring My Repos!
