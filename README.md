@@ -17,15 +17,15 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/ahmedmohamed24/)
 
 
-<h3>🛠 My profile Statistics </h3>
+<h3 align="center">🛠 My profile Statistics </h3>
 
-![Poula Helmy's github](https://github-readme-stats.vercel.app/api?username=PoulaHelmy&show_icons=true&hide_border=true)
+![Poula Helmy's github]<p align="center">(https://github-readme-stats.vercel.app/api?username=PoulaHelmy&show_icons=true&hide_border=true)</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulaHelmy&langs_count=10&theme=tokyonight&layout=compact" alt="Poula Helmy :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulaHelmy&langs_count=10&theme=tokyonight&layout=compact" alt="Poula Helmy :: Top Langs" /></p>
 
 
 <h3> 💬 Connect with via ... </h3>
