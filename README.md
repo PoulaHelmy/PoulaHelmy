@@ -37,6 +37,10 @@
 [![Phpstorm](https://img.shields.io/badge/phpstorm-143?style=flat-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 
+### - 📝 Blog
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@PoulaHelmy)](https://github.com/PoulaHelmy/)
+[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/poulahelmy)](https://github.com/PoulaHelmy/)
+
 <h3> 💬 Connect with via ... </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/poula-helmy-406606158" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
