@@ -38,8 +38,8 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2B%2B&logoColor=black&link=https://github.com/PoulaHelmy/)](https://github.com/PoulaHelmy/)
 
 ### - 📝 Blog
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@PoulaHelmy)](https://github.com/PoulaHelmy/)
-[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/poulahelmy)](https://github.com/PoulaHelmy/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@PoulaHelmy)](https://hashnode.com/@PoulaHelmy)
+[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/poulahelmy)](https://dev.to/poulahelmy)
 
 <h3> 💬 Connect with via ... </h3>
 <p align="center">
