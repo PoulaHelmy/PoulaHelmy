@@ -62,6 +62,6 @@
 <h3 align="center">Top langs</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoulaHelmy&langs_count=10&theme=tokyonight&layout=compact" alt="Poula Helmy :: Top Langs" /></p>
-
+<a href="https://app.daily.dev/PoulaHelmy"><img src="https://api.daily.dev/devcards/6916103a3fec42ac884c3d21280ac528.png?r=n61" width="400" alt="PoulaHelmy's Dev Card"/></a>
 
 ## Show ❤️ By Starring My Repos!
